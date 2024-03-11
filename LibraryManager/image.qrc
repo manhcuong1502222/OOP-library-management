@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bgimage/dausach.jpg</file>
+        <file>bgimage/docgia.png</file>
+        <file>bgimage/muontra.jpg</file>
+        <file>bgimage/top10.png</file>
+        <file>bgimage/top10.jpg</file>
+        <file>bgimage/top10book.jpg</file>
+        <file>bgimage/tv.jpg</file>
+        <file>bgimage/library.png</file>
+        <file>bgimage/imagemainwin.jpg</file>
+        <file>bgimage/headbook1.jpg</file>
+        <file>bgimage/headbook2.jpg</file>
+        <file>bgimage/tieudellbr.jpg</file>
+    </qresource>
+</RCC>

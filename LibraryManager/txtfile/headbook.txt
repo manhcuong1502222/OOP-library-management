@@ -1,0 +1,21 @@
+ISBN,Ten sach,So trang,Tac Gia,Nam xuat ban,The loai,So luot muon
+2015566,Conan,96,Aoyama Gosho,1996,Manga,12
+2015567,Harry Potter,320,J.K. Rowling,1997,Adventure,3
+2015568,To Kill a Mockingbird,281,Harper Lee,1960,Classic,1
+2015569,The Great Gatsby,180,F. Scott Fitzgerald,1925,Classic,1
+2015570,The Catcher in the Rye,224,J.D. Salinger,1951,Classic,3
+2015571,1984,328,George Orwell,1949,Dystopian,2
+2015572,The Hobbit,310,J.R.R. Tolkien,1937,Fantasy,3
+2015573,Pride and Prejudice,279,Jane Austen,1813,Romance,1
+2015574,The Alchemist,163,Paulo Coelho,1988,Fiction,1
+2015575,The Lord of the Rings,1216,J.R.R. Tolkien,1954,Fantasy,2
+2015576,The Da Vinci Code,454,Dan Brown,2003,Adventure,2
+2015577,The Hunger Games,374,Suzanne Collins,2008,Dystopian,1
+2015578,The Road,287,Cormac McCarthy,2006,Fiction,1
+2015579,The Shining,447,Stephen King,1977,Horror,1
+2015580,The Girl with the Dragon Tattoo,465,Stieg Larsson,2005,Mystery,1
+2015581,The Help,444,Kathryn Stockett,2009,Historical Fiction,0
+2015582,The Giver,208,Lois Lowry,1993,Science Fiction,0
+2015583,The Martian,369,Andy Weir,2011,Science Fiction,0
+2015584,The Fault in Our Stars,313,John Green,2012,Young Adult,0
+2015585,The Handmaid's Tale,311,Margaret Atwood,1985,Dystopian,0

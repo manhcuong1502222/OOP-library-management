@@ -1,0 +1,28 @@
+Ma Sach,Ten sach,Trang Thai,Vi tri
+1001,Conan,1,Ke nam
+1002,Harry Potter,1,Ke ba
+1003,To Kill a Mockingbird,1,Ke ba
+1004,The Great Gatsby,0,Ke tu
+1005,The Catcher in the Rye,0,Ke tu
+1006,1984,0,Ke hai
+1008,Pride and Prejudice,1,Ke ba
+1009,The Alchemist,0,Ke tu
+1010,The Lord of the Rings,0,Ke ba
+1011,The Da Vinci Code,0,Ke hai
+1012,The Hunger Games,1,Ke ba
+1013,The Road,0,Ke tu
+1014,The Shining,0,Ke ba
+1015,The Girl with the Dragon Tattoo,0,Ke ba
+1016,The Help,1,Ke tu
+1017,The Giver,0,Ke ba
+1018,The Martian,1,Ke tu
+1019,The Fault in Our Stars,1,Ke ba
+1020,The Handmaid's Tale,0,Ke tu
+1089,Conan,1,Ke bon
+60554,Conan,0,Ke bon
+75363,Conan,0,Ke bon
+41347,Conan,0,Ke nam
+92382,Conan,0,Ke bon
+10551,Conan,0,Ke bon
+63490,Conan,1,Ke bon
+88486,Conan,1,Ke bon

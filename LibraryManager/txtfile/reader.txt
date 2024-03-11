@@ -1,0 +1,13 @@
+Ma doc gia,Ho ten,Gioi tinh,Trang thai the
+100007,Nguyen Van Hoan,Nam,0
+100010,Nguyen Thi Mai,Nu,1
+100011,Hoang Van Son,Nam,1
+100012,Len Minh Lan,Nu,1
+100013,Truong Van Dung,Nam,1
+100014,Nguyen Van Binh,Nu,1
+753649,Nguyen Thanh Nhan,Nam,1
+605552,Nguyen Huy Long,Nu,1
+923837,Ph?m Huy Hoàng,Nam,1
+634912,Tran Mai Tien,Nam,1
+884882,Nguyen Quang Binh,Nam,1
+563840,Tran Manh Cuong,Nam,1
